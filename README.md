@@ -1,1 +1,1 @@
-# Parcial1_POO2
+Primer parcial de Programacion con Objetos II
